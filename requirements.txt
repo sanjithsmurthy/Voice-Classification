@@ -1,0 +1,12 @@
+torch~=2.1.1
+numpy~=1.26.2
+git+https://github.com/huggingface/datasets.git
+git+https://github.com/huggingface/transformers.git
+torchaudio~=2.1.1
+librosa
+packaging~=23.2
+pandas~=2.1.3
+tqdm~=4.66.1
+scikit-learn~=1.3.2
+pathlib~=1.0.1
+apex
