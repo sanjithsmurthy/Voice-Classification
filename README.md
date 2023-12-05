@@ -1,6 +1,3 @@
-# Soxan
-
-
 This repository consists of models, scripts, and notebooks that help you to use all the benefits of Wav2Vec 2.0 in your
 research. In the following, I'll show you how to train speech tasks in your dataset and how to use the pretrained
 models.
